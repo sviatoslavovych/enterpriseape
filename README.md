@@ -14,7 +14,7 @@ Feel free to access [my portfolio](http://vk.com/igrudetskyi).
 > Donec malesure olliguator *gravida*
 
 
-Donec malesure olliguator *gravida*
+Donec malesure olliguator **gravida**
 
 ### Crazy good software
 * Rapid development
